@@ -4,8 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Library.Start(); // ½Ì±ÛÅæ ÆĞÅÏ Àû¿ë½Ã »ç¿ë
-		 
+		//Library.Start(); // ì‹±ê¸€í†¤ íŒ¨í„´ ì ìš©ì‹œ ì‚¬ìš©
+		System.out.println("ì´ê¸¸ìš© í…ŒìŠ¤íŠ¸1");
+		
 	}
 
 }
